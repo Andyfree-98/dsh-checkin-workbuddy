@@ -1,0 +1,6 @@
+# dsh-checkin-button —— DSH bundle patch
+# 把本插件挂进 desktop profile 的 bundle 栈。
+
+- insert:
+    - id: dsh-checkin-button
+      name: dsh-checkin-button
