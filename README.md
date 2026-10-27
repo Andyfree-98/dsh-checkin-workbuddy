@@ -1,4 +1,4 @@
-# dsh-checkin-button
+# dsh-checkin-workbuddy
 
 WorkBuddy 每日签到快捷按钮（DSH bundle 插件，纯客户端）。
 
@@ -25,13 +25,13 @@ English: a one-click WorkBuddy daily check-in button pinned to the DSH composer 
 在 DSH 插件页「添加插件」中填入本仓库地址：
 
 ```
-github:Andyfree-98/dsh-checkin-button
+github:Andyfree-98/dsh-checkin-workbuddy
 ```
 
 或使用 CLI：
 
 ```
-dsh plugin add github:Andyfree-98/dsh-checkin-button
+dsh plugin add github:Andyfree-98/dsh-checkin-workbuddy
 ```
 
 安装后重启 DSH，按钮出现在输入框下方工具行。
