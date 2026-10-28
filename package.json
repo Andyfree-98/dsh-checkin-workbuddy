@@ -1,5 +1,5 @@
 {
-  "name": "dsh-checkin-button",
+  "name": "dsh-checkin-workbuddy",
   "version": "1.0.0",
   "description": "WorkBuddy 每日签到快捷按钮：常驻输入框下方工具行，一键触发 dsh-connect-workbuddy 的签到路由",
   "type": "module",
